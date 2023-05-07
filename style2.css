@@ -1,0 +1,93 @@
+/* HEADER */
+header{
+    text-align: center;
+    background-color: rgb(240, 255, 245);
+    margin: 2,5%;
+   
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title{
+    -webkit-text-fill-color: rgb(2, 82, 29);
+-webkit-text-stroke: 1px black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 350%;
+}
+/* NAV */
+nav{
+    background-color: rgb(2, 82, 29);
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+text-decoration: none; 
+}
+a{
+    color: white;
+}
+/* MAIN */
+main{
+    text-align: center;
+   
+}
+
+   .h1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    -webkit-text-fill-color: rgb(2, 82, 29);
+-webkit-text-stroke: 1px black;
+
+}
+
+.dia1{
+    color: rgb(33, 118, 134);
+    font-size: 150%;
+}
+.dia2{
+    color: rgb(134, 33, 120);
+    font-size: 150%;
+}
+
+.dia3{
+    color: rgb(134, 33, 38);
+    font-size: 150%;
+}
+.horario1{
+    color: rgb(33, 118, 134);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.horario2{
+    color: rgb(134, 33, 120);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.horario3{
+    color: rgb(134, 33, 38);
+    font-size: 110%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.tabla{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 200%;
+}
+
+/* FOOTER */
+footer{
+    
+    background-color: rgb(2, 82, 29) ;
+    margin: 2,5%;
+    text-align: center
+}
+.thanks{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 150%;
+}
+.copyright{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-align: center;
+    font-size: 90%;
+}
