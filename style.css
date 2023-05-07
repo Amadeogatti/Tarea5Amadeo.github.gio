@@ -1,7 +1,7 @@
 /* HEADER */
 header{
     text-align: center;
-    background-color: rgb(240, 255, 245);
+    background-color: rgb(189, 255, 211);
     margin: 2,5%;
    
 }
@@ -27,7 +27,8 @@ a{
 /* MAIN */
 main{
     text-align: center;
-   
+   background-image: url(fondomain.jpeg.jpeg);
+   background-size: 50%;
 }
 
    .h1{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
